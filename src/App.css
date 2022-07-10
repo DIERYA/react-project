@@ -1,0 +1,59 @@
+.title, .title-line{
+    display: flex;
+    font-size: 2em;
+    font-weight: bold;
+    justify-content: center;
+  
+  }
+
+
+.main-header{
+
+    display: flex;
+    font-weight: bold;
+    justify-content: left;
+  
+    }
+
+body {
+  
+  color: black;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.video-container {
+    display: flex;
+    justify-content: right;
+    margin: 5rem;
+    
+}
+
+.about-text {
+    width: 20rem;
+    margin: 5rem;
+    padding-left: 10px;
+    background-repeat: repeat-x;
+    border:1px solid #777;
+    border-radius:5px
+}
+
+.main-container{
+    margin-left: 5rem;
+}
+
+.contact-container,.contact-text,.line-container,.form-container, .signup-container {
+    display: grid;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.form-header, .form-email,  .form-password,.signup-header, .signup-email,  .signup-password, .signup-number, .signup-username, .signup-button,.form-button {
+    display: grid;
+    margin-top: 2rem;    
+}

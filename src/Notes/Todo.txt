@@ -1,0 +1,8 @@
+1. Fix Css as you go
+2. Js time
+3. Once button pressed say proccessing or signing up or loading 
+4. brainstorm
+5. get help on different pages
+
+
+  

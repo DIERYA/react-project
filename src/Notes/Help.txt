@@ -1,0 +1,12 @@
+https://icons8.com/icon/set/popular/nolan
+background-image: linear-gradient(120deg, #8e9eab 0%, #eef2f3 100%);
+https://uigradients.com/#Timber
+
+ background-image: linear-gradient(120deg, #8e9eab 0%, #eef2f3 100%);
+
+linear-gradient(120deg, #6441A5 0%, #2a0845 100%);
+ https://uigradients.com/#Predawn
+
+Fix Css Main component/all
+
+
