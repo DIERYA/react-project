@@ -14,6 +14,7 @@ function Form(){
             <p className="form-password" >Password</p>
             <input  className="form-password-input" placeholder="Password"></input>
             <button onClick={function handleClick() {
+                alert("Test")
                 
             }} class="btn btn-secondary my-2 my-sm-0" className="form-buttton">Sign In</button>
          
